@@ -1,0 +1,15 @@
+.container {
+  min-height: 50vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.message
+{
+  min-width: 20rem;
+  min-height: 2rem;
+  margin: 5px;
+}
